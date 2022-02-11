@@ -26,7 +26,7 @@ void PartA()
 
 void GetBootTime()
 {
-    double upTime
+    double upTime;
 }
 
 void GetProcTime()
